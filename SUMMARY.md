@@ -11,3 +11,4 @@
     * [Fix Permissions](fix/create.md)
 * [The End](end/README.md)
     * [Contact Me](end/contact.md)
+    * [FAQ's](end/faq.md)
