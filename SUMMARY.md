@@ -1,6 +1,6 @@
 # Summary
 =======
-* [Introduction](basics/README.md)
+* [Basics](basics/README.md)
     * [Prerequisites](basics/prerequisites.md)
     * [What is SSH?](basics/ssh.md)
     * [How Does a Website Work?](basics/website.md)
