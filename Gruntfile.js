@@ -10,8 +10,8 @@ module.exports = function (grunt) {
             development: {
                 output: path.join(__dirname, ".grunt/gitbook"),
                 input: "./",
-                title: "Learn to setup personal GMU website",
-                description: "A tutorial on setting up a GMU personal website.",
+                title: "GMU Webdev Personal Website Tutorial",
+                description: "Learn how to upload your website to the Mason Cluster using SSH (secure shell protocol)",
                 github: "the-ben-waters/gmuwebdevtut"
             }
         },

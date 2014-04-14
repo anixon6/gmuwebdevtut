@@ -40,7 +40,7 @@
     </head>
     <body>
         
-<div class="book" data-github="the-ben-waters/gmuwebdevtut" data-level="3.1" data-basepath=".." data-revision="1397506040059">
+<div class="book" data-github="the-ben-waters/gmuwebdevtut" data-level="3.1" data-basepath=".." data-revision="1397510859408">
     <div class="book-header">
     <!-- Actions Left -->
     <a href="https://github.com/the-ben-waters/gmuwebdevtut" target="_blank" class="btn pull-left"><i class="fa fa-github-alt"></i></a>
@@ -79,34 +79,34 @@
             <a href="../"><i class="fa fa-check"></i> Introduction</a>
         </li>
         
-            <li  data-level="1" data-path="introduction/README.html">
+            <li  data-level="1" data-path="basics/README.html">
                 
-                <a href="../introduction/README.html">
-                    <i class="fa fa-check"></i> <b>1)</b> Introduction
+                <a href="../basics/README.html">
+                    <i class="fa fa-check"></i> <b>1)</b> Basics
                 </a>
                 
                 
                 <ul class="articles">
                     
-                        <li  data-level="1.1" data-path="introduction/prerequisites.html">
+                        <li  data-level="1.1" data-path="basics/prerequisites.html">
                             
-                            <a href="../introduction/prerequisites.html">
+                            <a href="../basics/prerequisites.html">
                                 <i class="fa fa-check"></i> <b>1.1)</b> Prerequisites
                             </a>
                             
                         </li>
                     
-                        <li  data-level="1.2" data-path="introduction/ssh.html">
+                        <li  data-level="1.2" data-path="basics/ssh.html">
                             
-                            <a href="../introduction/ssh.html">
+                            <a href="../basics/ssh.html">
                                 <i class="fa fa-check"></i> <b>1.2)</b> What is SSH?
                             </a>
                             
                         </li>
                     
-                        <li  data-level="1.3" data-path="introduction/website.html">
+                        <li  data-level="1.3" data-path="basics/website.html">
                             
-                            <a href="../introduction/website.html">
+                            <a href="../basics/website.html">
                                 <i class="fa fa-check"></i> <b>1.3)</b> How Does a Website Work?
                             </a>
                             
@@ -209,13 +209,13 @@
     
         <a href="../index.html" title="Introduction" class="chapter done new-chapter" data-progress="0" style="left: 0%;"></a>
     
-        <a href="../introduction/README.html" title="Introduction" class="chapter done new-chapter" data-progress="1" style="left: 8.333333333333334%;"></a>
+        <a href="../basics/README.html" title="Basics" class="chapter done new-chapter" data-progress="1" style="left: 8.333333333333334%;"></a>
     
-        <a href="../introduction/prerequisites.html" title="Prerequisites" class="chapter done " data-progress="1.1" style="left: 16.666666666666668%;"></a>
+        <a href="../basics/prerequisites.html" title="Prerequisites" class="chapter done " data-progress="1.1" style="left: 16.666666666666668%;"></a>
     
-        <a href="../introduction/ssh.html" title="What is SSH?" class="chapter done " data-progress="1.2" style="left: 25%;"></a>
+        <a href="../basics/ssh.html" title="What is SSH?" class="chapter done " data-progress="1.2" style="left: 25%;"></a>
     
-        <a href="../introduction/website.html" title="How Does a Website Work?" class="chapter done " data-progress="1.3" style="left: 33.333333333333336%;"></a>
+        <a href="../basics/website.html" title="How Does a Website Work?" class="chapter done " data-progress="1.3" style="left: 33.333333333333336%;"></a>
     
         <a href="../upload/README.html" title="Upload" class="chapter done new-chapter" data-progress="2" style="left: 41.666666666666664%;"></a>
     
@@ -238,15 +238,15 @@
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_5">
+                    <section class="normal" id="section-gitbook_10">
                     
                         <h1 id="are-you-getting-this-error-">Are you getting this error?</h1>
 <p><a href="https://raw.github.com/the-ben-waters/gmuwebdevtut/master/assets/permissions_error.png" target="_blank"><img src="https://raw.github.com/the-ben-waters/gmuwebdevtut/master/assets/permissions_error.png" alt="Screen"></a></p>
 <p><strong>This is how to fix it</strong>  </p>
 <ul>
 <li>First: Make sure you have copied over local.cshrc, local.profile, and local.login from the prereqs page into your home directory  </li>
-<li>Second: Type in the following code  <pre><code>  <span class="hljs-escape">`c</span>d ~/<span class="hljs-escape">` </span>   
-  <span class="hljs-escape">`c</span>hmod -R <span class="hljs-number">755</span> public_html/*<span class="hljs-escape">` </span>  
+<li>Second: Type in the following code  <pre><code>  <span class="hljs-built_in">cd</span> ~/    
+  chmod -R <span class="hljs-number">755</span> public_html/*   
 </code></pre></li>
 </ul>
 <p>Now it should work!</p>
