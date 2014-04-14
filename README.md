@@ -1,4 +1,4 @@
-Learn AngularJS
+Upload Your GMU IT 103 Website
 ======
 
 This book will teach you the how to upload your IT 103 website to the Mason Cluster using the SSH protocol. Whether you are an tech savy or not I'll be able to help you get your IT 103 website up and running without any forbidden errors.
