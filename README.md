@@ -10,4 +10,4 @@ This book will teach you the how to upload your personal website to the Mason Cl
 [local.login](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/files/local.login)  
 
 #####Contributors and Thanks
-Thanks Jed Frye for doing the Mac OSX tutorial!
+Thanks Jed Fyre for doing the Mac OSX tutorial!
