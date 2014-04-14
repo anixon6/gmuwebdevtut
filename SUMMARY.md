@@ -4,11 +4,11 @@
     * [Prerequisites](introduction/prerequisites.md)
     * [What is SSH?](introduction/ssh.md)
     * [How Does a Website Work?](introduction/website.md)
-* [Upload](upload/README.md)
+* [Upload]
     * [Mac OSX](upload/macosx.md)
     * [Windows](upload/windows.md)
-* [Fix File Permissions](fix/README.md)
-    * [Fix Permissions](fix/create.md)
+* [Fix File Permissions]
+    * [Fix Permissions](fix/fix.md)
 * [The End](end/README.md)
     * [Contact Me](end/contact.md)
-    * [FAQ's](end/faq.md)
+    * [FAQs](end/faq.md)
