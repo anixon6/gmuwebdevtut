@@ -8,5 +8,5 @@
 * [Fix File Permissions](numbers/README.md)
     * [File Permission Fix](fix/create.md)
 * [The End](functions/README.md)
-    * [Contact](end/declare.md)
-    * [FAQ](end/higher_order.md)
+    * [Contact](end/contact.md)
+    * [End](end/end.md)
