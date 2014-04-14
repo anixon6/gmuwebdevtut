@@ -1,10 +1,10 @@
 {
-    "name": "IT103 Tutorial GitBook",
+    "name": "GMU Webdev Personal Site Tutorial",
     "version": "0.0.1",
     "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/the-ben-waters/it103-tutorial.git"
+        "url": "https://github.com/the-ben-waters/gmuwebdevtut.git"
     },
     "author": "Ben Waters <bsawyerwaters@gmail.com>",
     "license": "MIT",
