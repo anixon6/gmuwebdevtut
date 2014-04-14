@@ -7,7 +7,7 @@ At this moment, it is nearly guaranteed that:
 
 Because you are sitting at a computer, you have a Web browser and you possess the desire to learn, you have everything you need to get started. You can learn HTML and experiment with your Web browser to find out how to create any kind of Web page you can imagine.  
 
-In order to talk about Web pages and how they work, you will want to understand four simple terms (and if some of this sounds like technical mumbo-jumbo the first time you read it, don't worry)  
+In order to talk about Web pages and how they work, you will want to understand four simple terms (and if some of this sounds like technical mumbo-jumbo the first time you read it, don't worry)    
 **Web page** - A Web page is a simple text file that contains not only text, but also a set of HTML tags that describe how the text should be formatted when a browser displays it on the screen. The tags are simple instructions that tell the Web browser how the page should look when it is displayed. The tags tell the browser to do things like change the font size or color, or arrange things in columns. The Web browser interprets these tags to decide how to format the text onto the screen.
 **HTML** - HTML stands for Hyper Text Markup Language. A "markup language" is a computer language that describes how a page should be formatted. If all you want to do is display a long string of black and white text with no formatting, then you don't need HTML. But if you want to change fonts, add colors, create headlines and embed graphics in your page, HTML is the language you use to do it.  
 
@@ -16,4 +16,4 @@ In order to talk about Web pages and how they work, you will want to understand 
 
 It is extremely easy to experiment with Web pages without using a server. Your browser can view the Web pages you create from your personal machine. Once you understand how to create your own pages, it is likely that you will want to put them "out on a server," so that people around the world can load your pages and read them. We will talk about how to do that at the end of this article.
 
-Brain, Marshall.  "How Web Pages Work"  05 September 2000.  HowStuffWorks.com. <http://computer.howstuffworks.com/web-page.htm>  14 April 2014.
+*Brain, Marshall.  "How Web Pages Work"  05 September 2000.  HowStuffWorks.com. <http://computer.howstuffworks.com/web-page.htm>  14 April 2014.*
