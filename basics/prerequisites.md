@@ -15,6 +15,6 @@ Now download the file according to your respective operating system below.
 
 ###Permissions Files
 **Please right-click and click save-as on the files below**  
-[local.cshrc](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/files/local.cshrc)  
-[local.profile](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/files/local.profile)  
-[local.login](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/files/local.login) 
+[local.cshrc](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/assets/local.cshrc)  
+[local.profile](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/assets/local.profile)  
+[local.login](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/assets/local.login) 
