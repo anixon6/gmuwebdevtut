@@ -1,9 +1,9 @@
 #How Does a Website Work
 At this moment, it is nearly guaranteed that:  
 
-    You are sitting at your computer.  
-    You are using a Web browser to read this page, and that browser could be Microsoft Internet Explorer, Firefox or maybe Netscape.  
-    You want to learn how Web pages work, and perhaps learn the art of creating your own pages.  
+-You are sitting at your computer.  
+-You are using a Web browser to read this page, and that browser could be Microsoft Internet Explorer, Firefox or maybe Netscape.  
+-You want to learn how Web pages work, and perhaps learn the art of creating your own pages.  
 
 Because you are sitting at a computer, you have a Web browser and you possess the desire to learn, you have everything you need to get started. You can learn HTML and experiment with your Web browser to find out how to create any kind of Web page you can imagine.  
 
