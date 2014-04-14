@@ -5,10 +5,10 @@
 ## I keep getting a permission denied error
 
 **Type**  
-    cd ~/
-It will return something like
-    /home/u2/bwaters3
+    `cd ~/`  
+It will return something like  
+    `/home/u2/bwaters3`  
 
-**Type**
-    chmod 755 {what was above}
-    cd ~/
+**Type**  
+    `chmod 755 {what was above}`  
+    `cd ~/`  
