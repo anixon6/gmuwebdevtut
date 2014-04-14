@@ -4,9 +4,9 @@ This book will teach you the how to upload your personal website to the Mason Cl
 **Note:** This book has been generated using [GitBook](http://www.gitbook.io) and is open source, feel free to contribute or signal issues on [GitHub](https://github.com/the-ben-waters/gmuwebdevtut.tutorial).
 
 ###Files to Download
-[local.cshrc](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/assets/local.cshrc)  
-[local.profile](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/assets/local.profile)  
-[local.login](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/assets/local.login)  
+[local.cshrc](https://raw.githubusercontent.com/the-ben-waters/gmuwebdevtut/master/assets/local.cshrc)  
+[local.profile](https://raw.githubusercontent.com/the-ben-waters/gmuwebdevtut/master/assets/local.profile)  
+[local.login](https://raw.githubusercontent.com/the-ben-waters/gmuwebdevtut/master/assets/local.login)  
 
 #####Contributors and Thanks
 Thanks Jed Fyre for doing the Mac OSX tutorial!
