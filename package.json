@@ -1,13 +1,13 @@
 {
-    "name": "Javascript",
-    "version": "0.0.5",
+    "name": "GMU WebDev Tutorial",
+    "version": "0.0.1",
     "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/javascript.git"
+        "url": "https://github.com/the-ben-waters/gmuwebdevtut"
     },
-    "author": "Samy Pesse <samypesse@gmail.com>",
-    "license": "Apache 2",
+    "author": "Ben Waters <bsawyerwaters@gmail.com>",
+    "license": "MIT",
     "dependencies": {},
     "devDependencies": {
         "grunt": "~0.4.1",
