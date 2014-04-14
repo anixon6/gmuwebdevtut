@@ -7,6 +7,6 @@ This book will teach you the how to upload your IT 103 website to the Mason Clus
 
 Files to Download
 ---
-[local.cshrc](https://github.com/the-ben-waters/it103-tutorial/blob/master/files/local.cshrc)  
-[local.profile](https://github.com/the-ben-waters/it103-tutorial/blob/master/files/local.profile)  
-[local.login](https://github.com/the-ben-waters/it103-tutorial/blob/master/files/local.login)  
+[local.cshrc](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/files/local.cshrc)  
+[local.profile](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/files/local.profile)  
+[local.login](https://raw.githubusercontent.com/the-ben-waters/it103-tutorial/master/files/local.login)  
