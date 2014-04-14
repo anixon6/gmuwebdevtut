@@ -1,13 +1,13 @@
 {
-    "name": "IT103 Tutorial GitBook",
-    "version": "0.0.1",
+    "name": "Javascript",
+    "version": "0.0.5",
     "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/the-ben-waters/it103-tutorial.git"
+        "url": "https://github.com/GitbookIO/javascript.git"
     },
-    "author": "Ben Waters <bsawyerwaters@gmail.com>",
-    "license": "MIT",
+    "author": "Samy Pesse <samypesse@gmail.com>",
+    "license": "Apache 2",
     "dependencies": {},
     "devDependencies": {
         "grunt": "~0.4.1",
