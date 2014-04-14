@@ -1,12 +1,13 @@
-#Summary
-
+# Summary
+=======
 * [Introduction](introduction/README.md)
     * [Prerequisites](introduction/prerequisites.md)
-* [Upload](basics/README.md)
+    * [What is SSH?](introduction/ssh.md)
+    * [How Does a Website Work?](introduction/website.md)
+* [Upload](upload/README.md)
     * [Mac OSX](upload/macosx.md)
-    * [Windows 7](upload/windows.md)
-* [Fix File Permissions](numbers/README.md)
-    * [File Permission Fix](fix/create.md)
-* [The End](functions/README.md)
-    * [Contact](end/contact.md)
-    * [End](end/end.md)
+    * [Windows](upload/windows.md)
+* [Fix File Permissions](fix/README.md)
+    * [Fix Permissions](fix/create.md)
+* [The End](end/README.md)
+    * [Contact Me](end/contact.md)
