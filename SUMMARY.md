@@ -7,7 +7,7 @@
 * [Upload]
     * [Mac OSX](upload/macosx.md)
     * [Windows](upload/windows.md)
-* [Fix File Permissions](fix/README.md)
+* [Fix File Permissions]
     * [Fix Permissions](fix/fix.md)
 * [The End](end/README.md)
     * [Contact Me](end/contact.md)
