@@ -3,8 +3,8 @@
 
 **This is how to fix it**  
 
-- First: Make sure you have copied over local.cshrc, local.profile, and local.login from the prereqs page into your home directory  
-- Second: Type in the following code  
+- First, make sure you have copied over local.cshrc, local.profile, and local.login from the prereqs page into your home directory  
+- Second, type in the following code: 
         cd ~/    
         chmod -R 755 public_html/*   
 
